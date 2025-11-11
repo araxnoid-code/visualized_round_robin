@@ -3,4 +3,8 @@ name = "round_robin"
 version = "0.1.0"
 edition = "2024"
 
+[lib]
+name = "RoundRobin"
+path = "src/lib.rs"
+
 [dependencies]
